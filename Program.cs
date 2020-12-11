@@ -6,7 +6,9 @@ namespace Modificadores
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DemoDefault obj = new DemoDefault();
+            obj.mostrar();
+            Console.ReadKey();
         }
     }
 }
