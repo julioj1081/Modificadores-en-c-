@@ -2,7 +2,14 @@
 
 namespace Modificadores
 {
-    class Program : A
+    class A
+    {
+        private void mostrar()
+        {
+            Console.WriteLine("privado");
+        }
+    }
+    class Program
     {
         static void Main(string[] args)
         {
@@ -10,5 +17,6 @@ namespace Modificadores
             obj.mostrar();
             Console.ReadKey();
         }
+        //Error No es accesible debido a su nivel de proteccion
     }
 }
