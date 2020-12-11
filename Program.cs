@@ -2,18 +2,11 @@
 
 namespace Modificadores
 {
-    class A
-    {
-        private void mostrar()
-        {
-            Console.WriteLine("privado");
-        }
-    }
-    class Program
+    public class Program : A
     {
         static void Main(string[] args)
         {
-            A obj = new A();
+            Program obj = new Program();
             obj.mostrar();
             Console.ReadKey();
         }
