@@ -1,0 +1,13 @@
+C:\Users\julio\Downloads\Modificadores\bin\Debug\netcoreapp3.1\Modificadores.exe
+C:\Users\julio\Downloads\Modificadores\bin\Debug\netcoreapp3.1\Modificadores.deps.json
+C:\Users\julio\Downloads\Modificadores\bin\Debug\netcoreapp3.1\Modificadores.runtimeconfig.json
+C:\Users\julio\Downloads\Modificadores\bin\Debug\netcoreapp3.1\Modificadores.runtimeconfig.dev.json
+C:\Users\julio\Downloads\Modificadores\bin\Debug\netcoreapp3.1\Modificadores.dll
+C:\Users\julio\Downloads\Modificadores\bin\Debug\netcoreapp3.1\Modificadores.pdb
+C:\Users\julio\Downloads\Modificadores\obj\Debug\netcoreapp3.1\Modificadores.csprojAssemblyReference.cache
+C:\Users\julio\Downloads\Modificadores\obj\Debug\netcoreapp3.1\Modificadores.AssemblyInfoInputs.cache
+C:\Users\julio\Downloads\Modificadores\obj\Debug\netcoreapp3.1\Modificadores.AssemblyInfo.cs
+C:\Users\julio\Downloads\Modificadores\obj\Debug\netcoreapp3.1\Modificadores.csproj.CoreCompileInputs.cache
+C:\Users\julio\Downloads\Modificadores\obj\Debug\netcoreapp3.1\Modificadores.dll
+C:\Users\julio\Downloads\Modificadores\obj\Debug\netcoreapp3.1\Modificadores.pdb
+C:\Users\julio\Downloads\Modificadores\obj\Debug\netcoreapp3.1\Modificadores.genruntimeconfig.cache

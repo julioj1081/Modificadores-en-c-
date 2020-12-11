@@ -2,11 +2,11 @@
 
 namespace Modificadores
 {
-    class Program
+    class Program : A
     {
         static void Main(string[] args)
         {
-            DemoDefault obj = new DemoDefault();
+            A obj = new A();
             obj.mostrar();
             Console.ReadKey();
         }

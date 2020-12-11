@@ -1,12 +1,12 @@
 using System;
 namespace Modificadores
 {
-    class DemoDefault
+    public class A
     {
         //si le ponemos internal funcionara
-        void mostrar()
+        public void mostrar()
         {
-            Console.WriteLine("Hola default");
+            Console.WriteLine("Hola al public");
         }
     }
 }
