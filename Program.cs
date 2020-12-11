@@ -59,9 +59,9 @@ namespace Modificadores
             Shape c = new Circle(r);
             Shape s = new Sphere(r);
             Shape l = new Cylinder(r, h);
-            Console.WriteLine("Area of Circle   = {0:F2}", c.Area());
-            Console.WriteLine("Area of Sphere   = {0:F2}", s.Area());
-            Console.WriteLine("Area of Cylinder = {0:F2}", l.Area());
+            Console.WriteLine("Area de Circulo   = {0:F2}", c.Area());
+            Console.WriteLine("Area de Esfera   = {0:F2}", s.Area());
+            Console.WriteLine("Area de Cilindro = {0:F2}", l.Area());
             Console.ReadKey();
         }
         //Trae todos las areas de las figuras
