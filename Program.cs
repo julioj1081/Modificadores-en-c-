@@ -2,14 +2,14 @@
 
 namespace Modificadores
 {
-    public class Program : A
+    public class Program
     {
         static void Main(string[] args)
         {
-            Program obj = new Program();
-            obj.mostrar();
+            var b = new A.B();
+            Console.WriteLine(b.GetValue());
             Console.ReadKey();
         }
-        //Error No es accesible debido a su nivel de proteccion
+        //Ingresa a la clase A y la subclase B y trae el valor
     }
 }
